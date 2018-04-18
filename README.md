@@ -20,11 +20,7 @@ DNN output:
 
 -Generate additional images by adding noise
 
-2.Training the DNN
-
-Later...
-
-3.Testing 
+ 
 
 
 Papers
